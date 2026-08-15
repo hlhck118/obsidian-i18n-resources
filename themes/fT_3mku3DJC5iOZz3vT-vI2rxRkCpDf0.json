@@ -1,0 +1,444 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "theme": "Phycat",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supportedVersions": "0.2.10",
+        "title": "Phycat",
+        "description": "Phycat Localization & Tweaks",
+        "author": ""
+    },
+    "dict": [
+        {
+            "type": "name",
+            "source": "🐱 Phycat theme Info & Help",
+            "target": "🐱 Phycat theme Info & Help"
+        },
+        {
+            "type": "markdown",
+            "source": "true",
+            "target": "true"
+        },
+        {
+            "type": "description",
+            "source": "### Phycat Theme \\n A vibrant, glassmorphism aesthetic theme for Obsidian. \\n\\n [Github Repository](https://github.com/sumruler/obsidian-theme-phycat) | [Report Issue](https://github.com/sumruler/obsidian-theme-phycat/issues)| [Support](https://www.phycat.cn/donate.html)",
+            "target": "### Phycat Theme \\n A vibrant, glassmorphism aesthetic theme for Obsidian. \\n\\n [Github Repository](https://github.com/sumruler/obsidian-theme-phycat) | [Report Issue](https://github.com/sumruler/obsidian-theme-phycat/issues)| [Support](https://www.phycat.cn/donate.html)"
+        },
+        {
+            "type": "description",
+            "source": "**💡 Font Recommendation:** \\n This theme is optimized for [**LXGW WenKai**](https://github.com/lxgw/LxgwWenKai). Please install it for the best experience.",
+            "target": "**💡 Font Recommendation:** \\n This theme is optimized for [**LXGW WenKai**](https://github.com/lxgw/LxgwWenKai). Please install it for the best experience."
+        },
+        {
+            "type": "description",
+            "source": "**🪟 Pro Tip: Independent Settings View** \\n Press `Ctrl+P` and search for `Style Settings: Show style settings view`. This opens the settings in a separate pane instead of a modal, preventing it from blocking your view.",
+            "target": "**🪟 Pro Tip: Independent Settings View** \\n Press `Ctrl+P` and search for `Style Settings: Show style settings view`. This opens the settings in a separate pane instead of a modal, preventing it from blocking your view."
+        },
+        {
+            "type": "description",
+            "source": "**🧩 Plugin Recommendation: Hover Editor** \\n It is highly recommended to install the [**Hover Editor**](https://github.com/nothingislost/obsidian-hover-editor) plugin. You can turn the settings pane mentioned above into a floating window to tweak the theme in real-time.",
+            "target": "**🧩 Plugin Recommendation: Hover Editor** \\n It is highly recommended to install the [**Hover Editor**](https://github.com/nothingislost/obsidian-hover-editor) plugin. You can turn the settings pane mentioned above into a floating window to tweak the theme in real-time."
+        },
+        {
+            "type": "name",
+            "source": "🎨 Phycat color setting",
+            "target": "🎨 Phycat color setting"
+        },
+        {
+            "type": "title",
+            "source": "Color Scheme (Light Mode)",
+            "target": "Color Scheme (Light Mode)"
+        },
+        {
+            "type": "description",
+            "source": "Choose your preferred light mode flavor.",
+            "target": "Choose your preferred light mode flavor."
+        },
+        {
+            "type": "label",
+            "source": "🌸 Sakura (Pink / Default)",
+            "target": "🌸 Sakura (Pink / Default)"
+        },
+        {
+            "type": "label",
+            "source": "🌊 Mint (Mint Blue)",
+            "target": "🌊 Mint (Mint Blue)"
+        },
+        {
+            "type": "label",
+            "source": "☁️ Sky (Clear Blue)",
+            "target": "☁️ Sky (Clear Blue)"
+        },
+        {
+            "type": "label",
+            "source": "🌲 Forest (Natural Green)",
+            "target": "🌲 Forest (Natural Green)"
+        },
+        {
+            "type": "label",
+            "source": "🟣 Mauve (Orchid Purple)",
+            "target": "🟣 Mauve (Orchid Purple)"
+        },
+        {
+            "type": "label",
+            "source": "🌅 Golden Hour (Warm Amber)",
+            "target": "🌅 Golden Hour (Warm Amber)"
+        },
+        {
+            "type": "label",
+            "source": "🍒 Cherry (Vibrant Red)",
+            "target": "🍒 Cherry (Vibrant Red)"
+        },
+        {
+            "type": "label",
+            "source": "⚓ Prussian (Deep Blue)",
+            "target": "⚓ Prussian (Deep Blue)"
+        },
+        {
+            "type": "title",
+            "source": "Color Scheme (Dark Mode)",
+            "target": "Color Scheme (Dark Mode)"
+        },
+        {
+            "type": "description",
+            "source": "Choose your preferred dark mode flavor.",
+            "target": "Choose your preferred dark mode flavor."
+        },
+        {
+            "type": "label",
+            "source": "🧛 Vampire (Dracula / Default)",
+            "target": "🧛 Vampire (Dracula / Default)"
+        },
+        {
+            "type": "label",
+            "source": "🌌 Abyss (Midnight Blue)",
+            "target": "🌌 Abyss (Midnight Blue)"
+        },
+        {
+            "type": "label",
+            "source": "☢️ Radiation (Toxic Green)",
+            "target": "☢️ Radiation (Toxic Green)"
+        },
+        {
+            "type": "name",
+            "source": "🗂️ Phycat card Layout",
+            "target": "🗂️ Phycat card Layout"
+        },
+        {
+            "type": "title",
+            "source": "Interface Layout",
+            "target": "Interface Layout"
+        },
+        {
+            "type": "description",
+            "source": "Switch between the default flat layout and the modern card layout.",
+            "target": "Switch between the default flat layout and the modern card layout."
+        },
+        {
+            "type": "label",
+            "source": "🔲 Default (Flat)",
+            "target": "🔲 Default (Flat)"
+        },
+        {
+            "type": "label",
+            "source": "🃏 Cards (Floating)",
+            "target": "🃏 Cards (Floating)"
+        },
+        {
+            "type": "title",
+            "source": "启用彩虹文件夹 (Rainbow Folders)",
+            "target": "启用彩虹文件夹 (Rainbow Folders)"
+        },
+        {
+            "type": "description",
+            "source": "启用后，侧边栏文件列表将变为多彩嵌套的玻璃容器风格，并带有动态类型图标。关闭则恢复 Obsidian 默认样式。",
+            "target": "启用后，侧边栏文件列表将变为多彩嵌套的玻璃容器风格，并带有动态类型图标。关闭则恢复 Obsidian 默认样式。"
+        },
+        {
+            "type": "title",
+            "source": "Folder Icons",
+            "target": "Folder Icons"
+        },
+        {
+            "type": "description",
+            "source": "Enable custom folder icons in the file explorer. Disable to restore Obsidian default folder icons.",
+            "target": "Enable custom folder icons in the file explorer. Disable to restore Obsidian default folder icons."
+        },
+        {
+            "type": "title",
+            "source": "背景色混合比例（Card模式生效）",
+            "target": "背景色混合比例（Card模式生效）"
+        },
+        {
+            "type": "description",
+            "source": "调整背景色中白色的混合程度（数值越大越白，默认为 90）。",
+            "target": "调整背景色中白色的混合程度（数值越大越白，默认为 90）。"
+        },
+        {
+            "type": "name",
+            "source": "📏 Phycat spacing setting",
+            "target": "📏 Phycat spacing setting"
+        },
+        {
+            "type": "title",
+            "source": "File line width",
+            "target": "File line width"
+        },
+        {
+            "type": "title",
+            "source": "Letter spacing",
+            "target": "Letter spacing"
+        },
+        {
+            "type": "title",
+            "source": "Line height",
+            "target": "Line height"
+        },
+        {
+            "type": "title",
+            "source": "code Line height",
+            "target": "code Line height"
+        },
+        {
+            "type": "title",
+            "source": "blockquote Line height",
+            "target": "blockquote Line height"
+        },
+        {
+            "type": "title",
+            "source": "Table Line height",
+            "target": "Table Line height"
+        },
+        {
+            "type": "title",
+            "source": "Paragraph spacing (Reading mode)",
+            "target": "Paragraph spacing (Reading mode)"
+        },
+        {
+            "type": "name",
+            "source": "📑 Phycat heading setting",
+            "target": "📑 Phycat heading setting"
+        },
+        {
+            "type": "title",
+            "source": "Headings Colors",
+            "target": "Headings Colors"
+        },
+        {
+            "type": "title",
+            "source": "H1 light color",
+            "target": "H1 light color"
+        },
+        {
+            "type": "title",
+            "source": "H1 dark color",
+            "target": "H1 dark color"
+        },
+        {
+            "type": "title",
+            "source": "H2 light color",
+            "target": "H2 light color"
+        },
+        {
+            "type": "title",
+            "source": "H2 dark color",
+            "target": "H2 dark color"
+        },
+        {
+            "type": "title",
+            "source": "H3 light color",
+            "target": "H3 light color"
+        },
+        {
+            "type": "title",
+            "source": "H3 dark color",
+            "target": "H3 dark color"
+        },
+        {
+            "type": "title",
+            "source": "H4 light color",
+            "target": "H4 light color"
+        },
+        {
+            "type": "title",
+            "source": "H4 dark color",
+            "target": "H4 dark color"
+        },
+        {
+            "type": "title",
+            "source": "H5 light color",
+            "target": "H5 light color"
+        },
+        {
+            "type": "title",
+            "source": "H5 dark color",
+            "target": "H5 dark color"
+        },
+        {
+            "type": "title",
+            "source": "H6 light color",
+            "target": "H6 light color"
+        },
+        {
+            "type": "title",
+            "source": "H6 dark color",
+            "target": "H6 dark color"
+        },
+        {
+            "type": "title",
+            "source": "H1 title",
+            "target": "H1 title"
+        },
+        {
+            "type": "title",
+            "source": "H1 Alignment",
+            "target": "H1 Alignment"
+        },
+        {
+            "type": "description",
+            "source": "Choose whether H1 titles are centered or left-aligned.",
+            "target": "Choose whether H1 titles are centered or left-aligned."
+        },
+        {
+            "type": "title",
+            "source": "H1 font size",
+            "target": "H1 font size"
+        },
+        {
+            "type": "title",
+            "source": "H2 title",
+            "target": "H2 title"
+        },
+        {
+            "type": "title",
+            "source": "Select Style",
+            "target": "Select Style"
+        },
+        {
+            "type": "description",
+            "source": "Choose between the original capsule style or the new twin pillars style.",
+            "target": "Choose between the original capsule style or the new twin pillars style."
+        },
+        {
+            "type": "label",
+            "source": "🏛️ Twin Pillars (New)",
+            "target": "🏛️ Twin Pillars (New)"
+        },
+        {
+            "type": "label",
+            "source": "💊 Capsule (Original)",
+            "target": "💊 Capsule (Original)"
+        },
+        {
+            "type": "description",
+            "source": "Choose between the original glass capsule style or the new neon twin pillars style.",
+            "target": "Choose between the original glass capsule style or the new neon twin pillars style."
+        },
+        {
+            "type": "label",
+            "source": "🏙️ Neon Twin (New)",
+            "target": "🏙️ Neon Twin (New)"
+        },
+        {
+            "type": "label",
+            "source": "🔮 Glass Capsule (Original)",
+            "target": "🔮 Glass Capsule (Original)"
+        },
+        {
+            "type": "title",
+            "source": "H2 font size",
+            "target": "H2 font size"
+        },
+        {
+            "type": "title",
+            "source": "H2 spacing start",
+            "target": "H2 spacing start"
+        },
+        {
+            "type": "title",
+            "source": "H2 spacing end",
+            "target": "H2 spacing end"
+        },
+        {
+            "type": "title",
+            "source": "H3 title",
+            "target": "H3 title"
+        },
+        {
+            "type": "title",
+            "source": "H3 font size",
+            "target": "H3 font size"
+        },
+        {
+            "type": "title",
+            "source": "H3 spacing start",
+            "target": "H3 spacing start"
+        },
+        {
+            "type": "title",
+            "source": "H3 spacing end",
+            "target": "H3 spacing end"
+        },
+        {
+            "type": "title",
+            "source": "H4 title",
+            "target": "H4 title"
+        },
+        {
+            "type": "title",
+            "source": "H4 font size",
+            "target": "H4 font size"
+        },
+        {
+            "type": "title",
+            "source": "H4 spacing start",
+            "target": "H4 spacing start"
+        },
+        {
+            "type": "title",
+            "source": "H4 spacing end",
+            "target": "H4 spacing end"
+        },
+        {
+            "type": "title",
+            "source": "H5 title",
+            "target": "H5 title"
+        },
+        {
+            "type": "title",
+            "source": "H5 font size",
+            "target": "H5 font size"
+        },
+        {
+            "type": "title",
+            "source": "H5 spacing start",
+            "target": "H5 spacing start"
+        },
+        {
+            "type": "title",
+            "source": "H5 spacing end",
+            "target": "H5 spacing end"
+        },
+        {
+            "type": "title",
+            "source": "H6 title",
+            "target": "H6 title"
+        },
+        {
+            "type": "title",
+            "source": "H6 font size",
+            "target": "H6 font size"
+        },
+        {
+            "type": "title",
+            "source": "H6 spacing start",
+            "target": "H6 spacing start"
+        },
+        {
+            "type": "title",
+            "source": "H6 spacing end",
+            "target": "H6 spacing end"
+        }
+    ]
+}

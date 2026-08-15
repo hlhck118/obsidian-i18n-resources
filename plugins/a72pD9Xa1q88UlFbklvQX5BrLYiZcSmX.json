@@ -1,0 +1,1243 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "header-enhancer",
+        "version": "1.0.0",
+        "title": "Header Enhancer",
+        "description": "Header Enhancer Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "0.5.1",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "🔧 智能检测结果",
+                    "target": "🔧 智能检测结果"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "中文",
+                    "target": "中文"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Arial, sans-serif",
+                    "target": "Arial, sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Helvetica, Arial, sans-serif",
+                    "target": "Helvetica, Arial, sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Verdana, Geneva, sans-serif",
+                    "target": "Verdana, Geneva, sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Tahoma, Geneva, sans-serif",
+                    "target": "Tahoma, Geneva, sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Trebuchet MS', Helvetica, sans-serif",
+                    "target": "'Trebuchet MS', Helvetica, sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Trebuchet MS",
+                    "target": "Trebuchet MS"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Lucida Sans Unicode', 'Lucida Grande', sans-serif",
+                    "target": "'Lucida Sans Unicode', 'Lucida Grande', sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Lucida Sans",
+                    "target": "Lucida Sans"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Impact, Charcoal, sans-serif",
+                    "target": "Impact, Charcoal, sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Comic Sans MS', cursive",
+                    "target": "'Comic Sans MS', cursive"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Comic Sans MS",
+                    "target": "Comic Sans MS"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Times New Roman', Times, serif",
+                    "target": "'Times New Roman', Times, serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Times New Roman",
+                    "target": "Times New Roman"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Georgia, serif",
+                    "target": "Georgia, serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Palatino Linotype', 'Book Antiqua', Palatino, serif",
+                    "target": "'Palatino Linotype', 'Book Antiqua', Palatino, serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Garamond, serif",
+                    "target": "Garamond, serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Book Antiqua', Palatino, serif",
+                    "target": "'Book Antiqua', Palatino, serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Book Antiqua",
+                    "target": "Book Antiqua"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Courier New', Courier, monospace",
+                    "target": "'Courier New', Courier, monospace"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Courier New",
+                    "target": "Courier New"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Consolas, 'Liberation Mono', monospace",
+                    "target": "Consolas, 'Liberation Mono', monospace"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Monaco, 'Lucida Console', monospace",
+                    "target": "Monaco, 'Lucida Console', monospace"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'JetBrains Mono', Consolas, monospace",
+                    "target": "'JetBrains Mono', Consolas, monospace"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "JetBrains Mono",
+                    "target": "JetBrains Mono"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Fira Code', Consolas, monospace",
+                    "target": "'Fira Code', Consolas, monospace"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Fira Code",
+                    "target": "Fira Code"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Menlo, Monaco, monospace",
+                    "target": "Menlo, Monaco, monospace"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Microsoft YaHei', '微软雅黑', Arial, sans-serif",
+                    "target": "'Microsoft YaHei', '微软雅黑', Arial, sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Microsoft YaHei (微软雅黑)",
+                    "target": "Microsoft YaHei (微软雅黑)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'PingFang SC', '苹方-简', 'Helvetica Neue', Arial, sans-serif",
+                    "target": "'PingFang SC', '苹方-简', 'Helvetica Neue', Arial, sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "PingFang SC (苹方-简)",
+                    "target": "PingFang SC (苹方-简)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Hiragino Sans GB', '冬青黑体简体中文', 'Microsoft YaHei', sans-serif",
+                    "target": "'Hiragino Sans GB', '冬青黑体简体中文', 'Microsoft YaHei', sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Hiragino Sans GB (冬青黑体)",
+                    "target": "Hiragino Sans GB (冬青黑体)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Source Han Sans SC', '思源黑体 CN', 'Noto Sans CJK SC', sans-serif",
+                    "target": "'Source Han Sans SC', '思源黑体 CN', 'Noto Sans CJK SC', sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Source Han Sans SC (思源黑体)",
+                    "target": "Source Han Sans SC (思源黑体)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Noto Sans SC', '思源黑体', sans-serif",
+                    "target": "'Noto Sans SC', '思源黑体', sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Noto Sans SC",
+                    "target": "Noto Sans SC"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "SimHei, '黑体', sans-serif",
+                    "target": "SimHei, '黑体', sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "SimHei (黑体)",
+                    "target": "SimHei (黑体)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'WenQuanYi Micro Hei', '文泉驿微米黑', sans-serif",
+                    "target": "'WenQuanYi Micro Hei', '文泉驿微米黑', sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "WenQuanYi Micro Hei (文泉驿微米黑)",
+                    "target": "WenQuanYi Micro Hei (文泉驿微米黑)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Songti SC', '宋体-简', SimSun, serif",
+                    "target": "'Songti SC', '宋体-简', SimSun, serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Songti SC (宋体-简)",
+                    "target": "Songti SC (宋体-简)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "SimSun, '宋体', serif",
+                    "target": "SimSun, '宋体', serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "SimSun (宋体)",
+                    "target": "SimSun (宋体)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Source Han Serif SC', '思源宋体 CN', 'Noto Serif CJK SC', serif",
+                    "target": "'Source Han Serif SC', '思源宋体 CN', 'Noto Serif CJK SC', serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Source Han Serif SC (思源宋体)",
+                    "target": "Source Han Serif SC (思源宋体)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Noto Serif SC', '思源宋体', serif",
+                    "target": "'Noto Serif SC', '思源宋体', serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Noto Serif SC",
+                    "target": "Noto Serif SC"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'STSong', '华文宋体', SimSun, serif",
+                    "target": "'STSong', '华文宋体', SimSun, serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "STSong (华文宋体)",
+                    "target": "STSong (华文宋体)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'FangSong', '仿宋', serif",
+                    "target": "'FangSong', '仿宋', serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "FangSong (仿宋)",
+                    "target": "FangSong (仿宋)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', Arial, sans-serif",
+                    "target": "'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', Arial, sans-serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "中英文无衬线混合",
+                    "target": "中英文无衬线混合"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "'Songti SC', 'Source Han Serif SC', 'Times New Roman', serif",
+                    "target": "'Songti SC', 'Source Han Serif SC', 'Times New Roman', serif"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "中英文衬线混合",
+                    "target": "中英文衬线混合"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error finding heading backlinks:",
+                    "target": "查找标题反向链接时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error updating backlinks:",
+                    "target": "更新反向链接时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to rollback changes:",
+                    "target": "回滚更改失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Auto Numbering Settings",
+                    "target": "自动编号设置"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Backlink update failed, changes rolled back",
+                    "target": "反向链接更新失败，更改已回滚"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Critical error: Failed to rollback backlink changes",
+                    "target": "严重错误：回滚反向链接更改失败"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Language for automatic numbering",
+                    "target": "自动编号的语言"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Show current header level on status bar",
+                    "target": "在状态栏显示当前标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Show Header Enhancer icon in the sidebar ribbon",
+                    "target": "在侧边栏功能区显示 Header Enhancer 图标"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Automatically detect and use the highest and lowest header levels in the document for numbering",
+                    "target": "自动检测并使用文档中最高和最低的标题级别进行编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The starting level for headers",
+                    "target": "标题的起始级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Maximum level for headers",
+                    "target": "标题的最大级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Master switch to enable/disable the entire auto numbering functionality. When disabled, no documents will have auto numbering regardless of other settings.",
+                    "target": "用于启用/禁用整个自动编号功能的总开关。禁用后，无论其他设置如何，所有文档都不会自动编号。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Control how header auto numbering works",
+                    "target": "控制标题自动编号的工作方式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Start numbering at this number",
+                    "target": "从此数字开始编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Separator between numbers (one of '. , / -')",
+                    "target": "数字之间的分隔符（可选项：'. , / -'）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Separator between header number and text",
+                    "target": "标题编号与文本之间的分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "⚠️ Warning: Automatically update backlinks when headers change. May impact performance in large vaults.",
+                    "target": "⚠️ 警告：标题更改时自动更新反向链接。在大型库中可能影响性能。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Use different font settings for markdown headers (# ## ###)",
+                    "target": "为 Markdown 标题（# ## ###）使用不同的字体设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Header font family (inherit from global font by default)",
+                    "target": "标题字体族（默认继承全局字体）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Header font size (inherit from global font size by default)",
+                    "target": "标题字体大小（默认继承全局字号）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Use different font settings for document titles",
+                    "target": "为文档标题使用不同的字体设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Title font family (inherit from global font by default)",
+                    "target": "标题字体族（默认继承全局字体）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Title font size (inherit from global font size by default)",
+                    "target": "标题字体大小（默认继承全局字体大小）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Choose how to handle documents that don't have YAML configuration",
+                    "target": "选择如何处理没有 YAML 配置的文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Default starting header level for documents without YAML",
+                    "target": "没有 YAML 的文档的默认起始标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Default ending header level for documents without YAML",
+                    "target": "没有 YAML 的文档的默认结束标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Default starting number for documents without YAML",
+                    "target": "没有 YAML 的文档的默认起始编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Default number separator for documents without YAML",
+                    "target": "没有 YAML 的文档的默认编号分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "自动编号的语言",
+                    "target": "自动编号的语言"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在状态栏显示当前标题级别",
+                    "target": "在状态栏显示当前标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "在侧边栏功能区显示标题增强器图标",
+                    "target": "在侧边栏功能区显示标题增强器图标"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "根据上下文自动检测标题级别",
+                    "target": "根据上下文自动检测标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "标题的起始级别",
+                    "target": "标题的起始级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "标题的最大级别",
+                    "target": "标题的最大级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "主开关，用于启用/禁用整个自动编号功能。禁用时，无论其他设置如何，都不会有文档进行自动编号。",
+                    "target": "主开关，用于启用/禁用整个自动编号功能。禁用时，无论其他设置如何，都不会有文档进行自动编号。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "控制标题自动编号的工作方式",
+                    "target": "控制标题自动编号的工作方式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "从此数字开始编号",
+                    "target": "从此数字开始编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "数字之间的分隔符（. , / - 中的一个）",
+                    "target": "数字之间的分隔符（. , / - 中的一个）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "数字和标题文本之间的分隔符",
+                    "target": "数字和标题文本之间的分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "⚠️ 警告：当标题改变时自动更新反向链接。在大型知识库中可能会影响性能。",
+                    "target": "⚠️ 警告：当标题改变时自动更新反向链接。在大型知识库中可能会影响性能。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "为markdown标题使用独立的字体设置 (# ## ###)",
+                    "target": "为markdown标题使用独立的字体设置 (# ## ###)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "标题字体族（默认继承全局字体）",
+                    "target": "标题字体族（默认继承全局字体）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "标题字体大小（默认继承全局字体大小）",
+                    "target": "标题字体大小（默认继承全局字体大小）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "为文档标题使用独立的字体设置",
+                    "target": "为文档标题使用独立的字体设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "文档标题字体族（默认继承全局字体）",
+                    "target": "文档标题字体族（默认继承全局字体）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "文档标题字体大小（默认继承全局字体大小）",
+                    "target": "文档标题字体大小（默认继承全局字体大小）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "选择如何处理没有YAML配置的文档",
+                    "target": "选择如何处理没有YAML配置的文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "没有YAML配置的文档使用的默认起始标题层级",
+                    "target": "没有YAML配置的文档使用的默认起始标题层级"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "没有YAML配置的文档使用的默认结束标题层级",
+                    "target": "没有YAML配置的文档使用的默认结束标题层级"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "没有YAML配置的文档使用的默认起始编号",
+                    "target": "没有YAML配置的文档使用的默认起始编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "没有YAML配置的文档使用的默认数字分隔符",
+                    "target": "没有YAML配置的文档使用的默认数字分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "The auto numbering function is currently disabled globally. Enable it above to access other auto numbering settings and use the sidebar button to control individual documents.",
+                    "target": "自动编号功能当前在全局范围内被禁用。请在上方启用它以访问其他自动编号设置，并使用侧边栏按钮控制单个文档。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "In this mode, header numbering is controlled by YAML frontmatter in files. Please add the following configuration at the beginning of your document:",
+                    "target": "在此模式下，标题编号由文件的YAML前置元数据控制。请在文档开头添加如下配置："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Header auto numbering is currently disabled. To enable auto numbering, please select \"On\" or \"Controlled by YAML\" mode above.",
+                    "target": "当前标题自动编号功能已禁用。要启用自动编号，请在上方选择“启用”或“通过YAML控制”模式。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "自动编号功能当前在全局范围内被禁用。请在上方启用它以访问其他自动编号设置并使用侧边栏按钮控制单个文档。",
+                    "target": "自动编号功能当前在全局范围内被禁用。请在上方启用它以访问其他自动编号设置并使用侧边栏按钮控制单个文档。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "在此模式下，标题编号由文件的YAML前置元数据控制。请在文档开头添加如下配置：",
+                    "target": "在此模式下，标题编号由文件的YAML前置元数据控制。请在文档开头添加如下配置："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "当前标题自动编号功能已禁用。要启用自动编号，请在上方选择\"启用\"或\"通过YAML控制\"模式。",
+                    "target": "当前标题自动编号功能已禁用。要启用自动编号，请在上方选择\"启用\"或\"通过YAML控制\"模式。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "You can't change header separator when auto numbering is enabled",
+                    "target": "启用自动编号时无法更改标题分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Error occurred while processing files: {error}",
+                    "target": "处理文件时发生错误：{error}"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "起始数字必须是有效数字",
+                    "target": "起始数字必须是有效数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "分隔符必须是以下之一：. , / -",
+                    "target": "分隔符必须是以下之一：. , / -"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "无效的标题分隔符",
+                    "target": "无效的标题分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "处理文件时发生错误：{error}",
+                    "target": "处理文件时发生错误：{error}"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "You are about to turn off auto numbering. What would you like to do with existing numbering in your documents?",
+                    "target": "您即将关闭自动编号。您希望如何处理文档中现有的编号？"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "You are about to enable auto numbering. What would you like to do with existing documents in your vault?",
+                    "target": "您即将启用自动编号。您希望如何处理知识库中现有的文档？"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "您即将关闭自动编号功能。对于文档中现有的编号，您希望如何处理？",
+                    "target": "您即将关闭自动编号功能。对于文档中现有的编号，您希望如何处理？"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "您即将启用自动编号功能。对于知识库中现有的文档，您希望如何处理？",
+                    "target": "您即将启用自动编号功能。对于知识库中现有的文档，您希望如何处理？"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show on Status Bar",
+                    "target": "显示在状态栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show on Sidebar",
+                    "target": "显示在侧边栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Auto Detect Header Level",
+                    "target": "自动检测标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Start Header Level",
+                    "target": "起始标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Max Header Level",
+                    "target": "最大标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Enable Auto Numbering Function",
+                    "target": "启用自动编号功能"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Auto Numbering Mode",
+                    "target": "自动编号模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Header Level Numbering Method",
+                    "target": "标题级别编号方法"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Start Number",
+                    "target": "起始编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Number Separator",
+                    "target": "数字分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Header Separator",
+                    "target": "标题分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Update Backlinks",
+                    "target": "更新反向链接"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Your auto numbering format is",
+                    "target": "你的自动编号格式为"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Separate Header Font",
+                    "target": "单独标题字体"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Font Family",
+                    "target": "字体"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Font Size",
+                    "target": "字号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Separate Title Font",
+                    "target": "单独正文标题字体"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Documents without YAML configuration",
+                    "target": "无 YAML 配置的文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Default Start Level",
+                    "target": "默认起始级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Default End Level",
+                    "target": "默认结束级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Default Start Number",
+                    "target": "默认起始编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Default Separator",
+                    "target": "默认分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Reset Settings",
+                    "target": "重置设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "语言",
+                    "target": "语言"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "在状态栏显示",
+                    "target": "在状态栏显示"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "在侧边栏显示",
+                    "target": "在侧边栏显示"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "自动检测标题级别",
+                    "target": "自动检测标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "起始标题级别",
+                    "target": "起始标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "最大标题级别",
+                    "target": "最大标题级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "启用自动编号功能",
+                    "target": "启用自动编号功能"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "自动编号模式",
+                    "target": "自动编号模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "标题层级编号方式",
+                    "target": "标题层级编号方式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "起始数字",
+                    "target": "起始数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "数字分隔符",
+                    "target": "数字分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "标题分隔符",
+                    "target": "标题分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "更新反向链接",
+                    "target": "更新反向链接"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "当前格式",
+                    "target": "当前格式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "独立标题字体",
+                    "target": "独立标题字体"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "字体族",
+                    "target": "字体族"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "字体大小",
+                    "target": "字体大小"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "独立文档标题字体",
+                    "target": "独立文档标题字体"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "没有YAML配置的文档处理方式",
+                    "target": "没有YAML配置的文档处理方式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "默认起始层级",
+                    "target": "默认起始层级"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "默认结束层级",
+                    "target": "默认结束层级"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "默认起始数字",
+                    "target": "默认起始数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "默认分隔符",
+                    "target": "默认分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "重置设置",
+                    "target": "重置设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Enter a number",
+                    "target": "请输入数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Enter separator",
+                    "target": "请输入分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "输入数字",
+                    "target": "输入数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "输入分隔符",
+                    "target": "输入分隔符"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Hobee Liu",
+                    "target": "Hobee Liu"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Github Issues",
+                    "target": "GitHub 问题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Header Enhancer Settings",
+                    "target": "标题增强器设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Header Auto Numbering",
+                    "target": "标题自动编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Auto Numbering Function Disabled",
+                    "target": "自动编号功能已禁用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Turn Off Auto Numbering",
+                    "target": "关闭自动编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Enable Auto Numbering",
+                    "target": "启用自动编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Header Font Settings",
+                    "target": "标题字体设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Header Font Preview",
+                    "target": "标题字体预览"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Title Font Settings",
+                    "target": "标题字体设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Title Font Preview",
+                    "target": "标题字体预览"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "⚙️ YAML Control Mode",
+                    "target": "⚙️ YAML 控制模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "⏸️ Auto Numbering Disabled",
+                    "target": "⏸️ 自动编号已禁用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Header Enhancer",
+                    "target": "标题增强器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "标题增强器设置",
+                    "target": "标题增强器设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "标题自动编号",
+                    "target": "标题自动编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "自动编号功能已禁用",
+                    "target": "自动编号功能已禁用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "关闭自动编号",
+                    "target": "关闭自动编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "启用自动编号",
+                    "target": "启用自动编号"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "标题字体设置",
+                    "target": "标题字体设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "标题字体预览",
+                    "target": "标题字体预览"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "文档标题字体设置",
+                    "target": "文档标题字体设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "文档标题字体预览",
+                    "target": "文档标题字体预览"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "⚙️ YAML控制模式",
+                    "target": "⚙️ YAML控制模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "⏸️ 自动编号已关闭",
+                    "target": "⏸️ 自动编号已关闭"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "标题增强器",
+                    "target": "标题增强器"
+                }
+            ],
+            "regex": []
+        }
+    }
+}
